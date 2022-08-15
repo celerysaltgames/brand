@@ -8,7 +8,7 @@
    version="1.1"
    id="svg21"
    inkscape:version="1.2.1 (ef4d3fba62, 2022-07-19, custom)"
-   sodipodi:docname="celery_salt_logo.svg"
+   sodipodi:docname="celery_salt_vertical_full.svg"
    inkscape:export-filename="../b0cd6cd5/celery.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.1023743"
-     inkscape:cx="119.28798"
-     inkscape:cy="295.27176"
+     inkscape:cx="120.19511"
+     inkscape:cy="296.17889"
      inkscape:window-width="1865"
      inkscape:window-height="1016"
      inkscape:window-x="2560"
@@ -75,17 +75,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="52.635204"
+       x="53.164371"
        y="46.627037"
        id="text1532"><tspan
          sodipodi:role="line"
          id="tspan1530"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'Broken Console';-inkscape-font-specification:'Broken Console';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="52.635204"
+         x="53.164371"
          y="46.627037">Celery</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'Broken Console';-inkscape-font-specification:'Broken Console';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         x="52.635204"
+         x="53.164371"
          y="78.377037"
          id="tspan1534">Salt</tspan></text>
     <rect
